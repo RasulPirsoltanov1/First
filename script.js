@@ -10,3 +10,6 @@ if (((yas > 10 || yas < 20) && point > 60)) {
 else {
     console.log('tebrikler imtahandan ugurla kece bilmediniz!');
 }
+
+sad
+s
