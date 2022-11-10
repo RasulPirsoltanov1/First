@@ -40,7 +40,7 @@
             return;
         }
         for (let i = 0; i < words.length; i++) {
-            if (words[i] == value) {
+            if (words[i].toLowerCase() == value.toLowerCase()) {
                 var message = document.getElementById("alert1");
                 message.innerHTML = "eynisini yazma";
                 return;
